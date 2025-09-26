@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/gANIO/Nis=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Dev\\digital-magazine-app\\src\\DigitalMagazine.Api\\DigitalMagazine.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
